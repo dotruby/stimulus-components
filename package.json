@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@hotwired/stimulus": "^3.2.2",
-    "@hotwired/turbo": "^8.0.13",
+    "@hotwired/turbo": "^8.0.21",
     "@nuxt/eslint-config": "^0.2.0",
     "@tailwindcss/postcss": "^4.1.13",
     "@types/google.maps": "^3.58.1",
